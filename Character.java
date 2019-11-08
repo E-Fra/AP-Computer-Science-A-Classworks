@@ -80,3 +80,4 @@ public class Character
         return characterData;
     }
 }
+// missed a chunk of class, was meeting with counselor, did not finish code
